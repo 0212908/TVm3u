@@ -1,6 +1,6 @@
 小Q整理中
 測試頻道,#genre#
-东风卫视,rtmp://s02.ottclub.info:1935/live/c214.stream#rtmp://s02.ottclub.info:1935/live/c714.stream
+东风卫视,http://cl2.ottclub.info:443/kitty/c714.stream/playlist.m3u8#http://cl2.ottclub.info:443/kitty/c714.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 無碼頻道04,p2p://192.95.32.107:9906/59222c9c0003f2144e036ffb2b1a0fa3&link=盗链死全家 
 無碼頻道05,p2p://192.95.32.107:9906/59222c6f00022fc44e02bfbf20064484&link=盗链死全家 
 無碼頻道06,p2p://192.95.32.107:9906/59222c7d0002cc1d4e02f69777421fe1&link=盗链死全家 
