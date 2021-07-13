@@ -1,12 +1,13 @@
 小Q整理中
 測試頻道,#genre#
-momo綜合台,HD,mitv://107.148.223.220:19908/60034000000f2fab52dc935cf5f64c9b
-momo追劇台,mitv://147.135.39.171:9906/5e5a0c1500031eca3b4f80701a63557e
-momo親子台,mitv://107.148.223.220:19908/60087b7c000e2ea1674cef7afab056fb
-东风37 年代,mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df
-FOX MOVIES,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23
-FOX MOVIES HD,mitv://107.148.223.220:19908/600340130001db2852dcda2a8deb31b3
-博斯無限,mitv://107.148.223.220:19908/6003401f000370e152dd09722d5e6b53
+東風37,mitv://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
+東風37,mitv://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
+NBATV,mitv://fccseuro.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7
+NBA Canada,mitv://fccseuro.pvbox.live:18912/5cffd5d4000b327ef5bf18f4e5a91904
+FS1,mitv://fccseuro.pvbox.live:18912/5b593b1800090110b11b03acd72eae49
+FS2,mitv://fccseuro.pvbox.live:18912/5b593b1c00097e8b9e3e670dad5c859b
+Espn,mitv://fccseuro.pvbox.live:18912/5ee9c8950007c7526d208d5372e27eaa
+Espn2,mitv://fccsovh.pvbox.live:18912/5ee9c896000d42e86d2092a209473035
 
 台灣節目表,#genre#
 縣公用頻道|２,http://61.58.60.230:9319/live/2.m3u8
